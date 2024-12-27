@@ -215,9 +215,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 **Salil Patel**
-
-## References
-
-1. Persistent Homology for Signal Analysis - [Link to paper]
-2. Geometric Deep Learning - [Link to paper]
-3. Attention Mechanisms in Neural Networks - [Link to paper]
