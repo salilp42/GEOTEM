@@ -143,12 +143,12 @@ Performance metrics on the ECG200 test set:
 Pairwise Wilcoxon tests on 5-fold cross-validation metrics to assess statistical significance:
 
 #### GTN vs CNN
-- Accuracy: p=0.0679 (marginally significant)
-- Precision: p=0.0625 (marginally significant)
+- Accuracy: p=0.0679 
+- Precision: p=0.0625 
 - Recall: p=0.4142
 - F1-score: p=0.1250
 - AUC-ROC: p=0.4375
-- MCC: p=0.0625 (marginally significant)
+- MCC: p=0.0625 
 
 #### GTN vs LSTM
 - Accuracy: p=0.1250
