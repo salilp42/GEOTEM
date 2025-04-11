@@ -2,7 +2,7 @@
 
 A comprehensive framework for ECG classification that combines geometric theory, topological data analysis (TDA), and deep learning. This repository implements and compares three approaches:
 
-- **GTN**: A novel Geometric-Temporal Network that leverages cross-attention among multiple geometric and topological signal representations
+- **GTN**: A novel Geometric-Temporal Network that uses cross-attention among multiple geometric and topological signal representations
 - **CNN**: Baseline 1D CNN with Grad-CAM visualization
 - **LSTM**: Baseline LSTM with Integrated Gradients
 
